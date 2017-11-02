@@ -25,7 +25,7 @@ The code promotion process can begin once the following conditions have been met
 2. The code sample is reviewed for sufficient browser support (if client-side web)
 3. Validated with at least one customer in production
 4. The code sample should be *generalized* beyond a single customer use case.
-5. The code sample is well documented.
+5. The code sample is well documented and includes the following items.
  * Description
  * Use cases
  * Expected Behavior
@@ -33,6 +33,8 @@ The code promotion process can begin once the following conditions have been met
  * Implementation
  * Limitations
  * Support
+
+NOTE: There is a template available below to help the developer(s) get started.
 
 Assuming these conditions are satisfied, then the developer(s) can choose to upload this sample to any of Optimizely's public technical resources:
 
