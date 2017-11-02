@@ -24,8 +24,8 @@ The code promotion process can begin once the following conditions have been met
 1. The code sample is QA'd
 2. The code sample is reviewed for sufficient browser support (if client-side web)
 3. Validated with at least one customer in production
-4. The code sample should be *generalized* beyond a single customer use case.
-5. The code sample is well documented and includes the following items.
+4. The code sample should be *generalized* beyond a single customer use case
+5. The code sample is well documented and includes the following items:
  * Description
  * Use cases
  * Expected Behavior
