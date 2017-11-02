@@ -1,7 +1,7 @@
 # Code Promotion Process README
 This README is designed to illustrate the code promotion process for the Optimizely Solutions organization.
 
-11/1/2017
+11/2/2017
 
 Author: Spencer Smitherman
 
@@ -21,9 +21,18 @@ All code samples developed and pushed to the `optimizely-solutions` organization
 
 The code promotion process can begin once the following conditions have been met:
 
-* The code sample is QA'd
-* The code sample is reviewed for sufficient browser support (if client-side web)
-* Validated with at least one customer in production
+1. The code sample is QA'd
+2. The code sample is reviewed for sufficient browser support (if client-side web)
+3. Validated with at least one customer in production
+4. The code sample should be *generalized* beyond a single customer use case.
+5. The code sample is well documented.
+ * Description
+ * Use cases
+ * Expected Behavior
+ * Prerequisites
+ * Implementation
+ * Limitations
+ * Support
 
 Assuming these conditions are satisfied, then the developer(s) can choose to upload this sample to any of Optimizely's public technical resources:
 
@@ -42,3 +51,23 @@ Code samples living within the `optimizely-solutions` repository should be suppo
 Should a code sample become "orphaned" when someone leaves the team/company, then another person is welcome to take ownership of the code sample. There is no obligation on the original developer(s) to transfer ownership of code samples within `optimizely-solutions`.
 
 Once the code sample is promoted beyond this organization, then the TSE team is responsible for identifying problems with the code via customer feedback and helping fix the solution. The Solutions Architect team and ADEPT will serve as escalation points should the code sample prove to be too difficult to fix.
+
+---
+
+## Documentation Template
+
+### Description
+
+### Use Cases
+
+### Expected Behavior
+
+### Prerequisites (if any)
+
+### Implementation
+
+### Limitations
+
+### Support
+
+If you have questions about this integration or if you're experiencing unexpected behavior, please submit a support ticket via the Help menu on the left side of the Optimizely Dashboard.
